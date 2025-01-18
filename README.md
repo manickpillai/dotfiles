@@ -1,4 +1,3 @@
----
 
 ### Install apps via homebrew
 
@@ -8,10 +7,11 @@
 brew bundle install --file=Brewfile
 ```
 
-To take a new backup of installed file run [Source](https://earthly.dev/blog/homebrew-on-m1/)
+To take a new backup of installed file run 
 
 ```shell
 brew bundle dump
 ```
+[Source](https://earthly.dev/blog/homebrew-on-m1/)
 
 ---
